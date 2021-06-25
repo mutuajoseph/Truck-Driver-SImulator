@@ -1,4 +1,5 @@
-# sendy-assessment
+# Truck Driver Simulator
+
 
 ## Project setup
 ```
